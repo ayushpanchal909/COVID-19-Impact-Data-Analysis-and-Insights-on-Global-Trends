@@ -28,3 +28,30 @@ In summary, my project involved importing COVID-19 data, cleaning it up, and cre
 >How has the trajectory of COVID-19 cases evolved over time in Brazil and the United States, and are there any points of divergence or similarity between the two countries?
 
 ### Conclusion and Presentation of Analysis
+
+![Untitled design (3)](https://github.com/ayushpanchal909/Covid-19-Analysis/assets/142341609/2f23e0ae-b475-48fa-ac52-c78e4c34e043)
+
+<br>
+<br>
+<img width="549" alt="5" src="https://github.com/ayushpanchal909/Covid-19-Analysis/assets/142341609/cf745403-1712-4d05-9304-3b674fb55e75">
+<br>
+<br>
+<img width="538" alt="6" src="https://github.com/ayushpanchal909/Covid-19-Analysis/assets/142341609/780a919e-ba6d-4c27-ad70-dda0ce386547">
+
+<br>
+The data reveals significant variations in COVID-19 testing rates across countries. Bangladesh and Pakistan stand out with remarkably high ratios, while the US and UK exhibit moderate ratios. These differences highlight distinct testing strategies and their potential impact on case identification and management.
+<br>
+<br>
+<img width="550" alt="7" src="https://github.com/ayushpanchal909/Covid-19-Analysis/assets/142341609/9957d6ed-f871-4d63-82f8-859cce4e32cb">
+<br>
+The provided data illustrates countries significantly impacted by the COVID-19 pandemic based on their reported case numbers. The USA, Brazil, and India lead with the highest confirmed cases, signifying substantial outbreaks. Other countries like Russia, South Africa, and Mexico also demonstrate considerable infection rates. These figures highlight the widespread global impact of the virus.
+<br>
+<br>
+<img width="546" alt="9" src="https://github.com/ayushpanchal909/Covid-19-Analysis/assets/142341609/3a3380fc-7d6a-447a-8e99-96dfe2d1ecaf">
+<br>
+The provided data highlights the toll of COVID-19 through reported total deaths in various countries. The USA and Brazil emerge as severely affected, with high death counts attributed to the virus. Mexico, UK, and India also demonstrate significant casualties, underlining the global impact of the pandemic on human lives.
+<br>
+<br>
+![Untitled design (5)](https://github.com/ayushpanchal909/Covid-19-Analysis/assets/142341609/e753243a-8791-4d1c-98ad-ee8a8ee479ba)
+
+
