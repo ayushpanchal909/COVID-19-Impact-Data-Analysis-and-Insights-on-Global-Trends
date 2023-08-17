@@ -1,5 +1,4 @@
-## Covid-19-Analysis
-
+## COVID-19 Impact: Data Analysis and Insights on Global Trends
 In my project, I started by bringing in COVID-19 data from a CSV file. After that, I worked on cleaning and organizing the data. This helped me get rid of any errors and make sure the information was accurate. 
 
 Then, I created a special kind of chart called a treemap. This chart made it easy to see which country had the most total COVID-19 cases, deaths, recoveries, and active cases. It's like a visual representation of the numbers.
