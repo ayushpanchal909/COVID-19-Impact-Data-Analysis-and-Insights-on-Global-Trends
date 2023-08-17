@@ -52,6 +52,13 @@ The provided data illustrates countries significantly impacted by the COVID-19 p
 The provided data highlights the toll of COVID-19 through reported total deaths in various countries. The USA and Brazil emerge as severely affected, with high death counts attributed to the virus. Mexico, UK, and India also demonstrate significant casualties, underlining the global impact of the pandemic on human lives.
 <br>
 <br>
-![Untitled design (5)](https://github.com/ayushpanchal909/Covid-19-Analysis/assets/142341609/e753243a-8791-4d1c-98ad-ee8a8ee479ba)
+
+![Untitled design (5)](https://github.com/ayushpanchal909/Covid-19-Analysis/assets/142341609/f265cd06-132a-414e-8def-79df3dab3350)
+
+<img width="551" alt="16" src="https://github.com/ayushpanchal909/Covid-19-Analysis/assets/142341609/d7f2dfee-0c69-4812-8c6d-d20eafe8c361">
+<br>
+<br>
+<img width="556" alt="17" src="https://github.com/ayushpanchal909/Covid-19-Analysis/assets/142341609/3f1197e9-ff4b-4b3f-90e0-c136592f80f3">
+
 
 
